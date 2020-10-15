@@ -1,5 +1,8 @@
 # Groupe Charles
 
+
+![alt text](https://lmiuk.com/wp-content/uploads/2019/12/Dobble_Pose_29.png "Logo Dobble")
+
 ## Présentation
 
 Dobble est un jeu de société inventé par Denis Blanchot.
